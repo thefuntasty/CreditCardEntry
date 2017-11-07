@@ -23,7 +23,8 @@
 
         <com.devmarvel.creditcardentry.library.CreditCardForm
             android:id="@+id/form_no_zip"
-            android:layout_width="250dp"
+        short_card_number_position
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="15dp"
             app:card_number_hint="XXXX XXXX XXXX XXXX"
